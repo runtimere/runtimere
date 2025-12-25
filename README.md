@@ -1,0 +1,30 @@
+# Hi there, I'm runtimere! 👋
+
+## About Me
+
+I'm a passionate **DevOps** enthusiast with a strong interest in Rust, Systems Programming. I love leading technical initiatives and am always eager to learn and grow in the tech industry.
+
+## 🚀 What I'm Working On
+
+- 🔭 Currently exploring devops
+- 🌱 Learning Rust and related technologies
+- 👯 Looking to collaborate on open source projects
+- 💬 Ask me about devops or Rust
+- 📫 Reach me through my GitHub profile
+
+## 🛠️ Tech Stack
+
+- Rust
+- Systems Programming
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=runtimere&show_icons=true&theme=radical)
+
+## 💼 Career Goals
+
+My goal is to leading technical initiatives while continuously improving my skills in software development and contributing to meaningful projects.
+
+---
+
+*Last updated: 12/25/2025*
